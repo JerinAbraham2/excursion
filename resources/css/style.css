@@ -1,7 +1,28 @@
-.header {
+body {
+    background-color: black;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header {
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
+}
+.linking {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+.sub-header {
+    font-weight: 300px;
+    font-size: 42px;
+}
+.subtitle {
+    font-size: 21px;
+    color: gray;;
+}
+h3 {
+    color: gray;
+    text-align: right;
 }
